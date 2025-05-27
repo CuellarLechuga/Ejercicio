@@ -1,0 +1,5 @@
+1. crear app Python manage.py nombre_app
+2. agregar nueva app en INSTALLED_APPS en settings.py
+3. Crear path de url en urls.py del proyecto
+4. Crear archivo urls.py en la aplicación
+5. Crear folder static_css en templates del proyecto y dentro crear archivo style.css 

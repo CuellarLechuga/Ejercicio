@@ -1,0 +1,15 @@
+h1{
+  font-size: 2em;
+  color: rgb(0, 165, 254);
+  text-align: center;
+}
+
+nav{
+    background-color: #f5efd7);
+    padding: 10px;
+}
+
+nav ul li{
+    display: inline;
+    margin-right: 20px;
+}
